@@ -1,6 +1,6 @@
 {
   "version": "0.10.1",
-  "installer_url": "https://github.com/LPieceo/Pieceo-Releases/releases/download/v0.10.1/PIECEO-Setup-0.10.1.exe",
+  "installer_url": "https://github.com/LPieceo/Pieceo-Releases/releases/download/V0.10.1/PIECEO-Setup-0.10.1.exe",
   "sha256": "ad0c250e71b652fc2a19c8d50b4c835f2944dd60547cdd2616d5d83d6e5bcaeb",
   "mandatory": false
 }
